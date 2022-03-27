@@ -1,0 +1,21 @@
+{
+    "token": "OTU1MjMyNDkyODI1MjE0OTg2.YjerlQ.0iTa3yOOIyQfZyCLZ_mfkNmTEII",
+    "prefix": ";",
+    "wlrole": "884800950286557235",
+    "helperRole": "884602964063436841",
+    "embedColor": "#C90000",
+    "m_AlreadyPubing_title": "<a:failed:884795430746091590> | An advertise is already in progress in this **channel**.",
+    "m_AlreadyPubing_description": "Please wait that the first **advertising** ends, or **cancel** it by reacting ':x:'",
+    "m_AlreadyPubing_footer": "SponsorX | Dev by Azuri",
+    "m_wl_sucess": "is now a client a got acces to SponsorX features !",
+    "m_wl_error": "<a:failed:884795430746091590> **| User not found.**",
+    "m_wl_null": "<a:failed:884795430746091590> **| You have to ping a valid user to whitelist",
+    "m_token_invalide_title": "<a:failed:884795430746091590> | Token **invalid/revoked**.",
+    "m_token_invalid_description": "Your bot may be banned or flagged by **Discord**, you can build a new one by [**clicking here**](https://discord.com/developers)",
+    "m_pub_time_stop_title": "<a:failed:884795430746091590> | Process was **canceled**, because time **elapsed**.",
+    "m_pub_s1_stopped": "<a:failed:884795430746091590> | The process has been successfully **canceled**.",
+    "m_pub_time_stop_description": "The time limit for the second step has expired, please retry again.",
+    "stream": "SponsorX | Prefix: ;"
+
+    
+}
